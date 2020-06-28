@@ -1,0 +1,730 @@
+[
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_done_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_done_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_backspace_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_backspace_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_add_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_add_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_add_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_add_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_done_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_done_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_salary.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_salary.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_movie.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_movie.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_backspace_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_backspace_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_money_off_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_money_off_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_food_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_food_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_attach_money_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_attach_money_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_add_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_add_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_entertain.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_entertain.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_backspace_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_backspace_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_record.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\layout\\activity_add_record.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_attach_money_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_attach_money_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_house_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_house_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_groceries_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_groceries_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_backspace_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_backspace_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_groceries.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_groceries.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_attach_money_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_attach_money_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_add_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_add_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_add_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_add_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_reimburse.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_reimburse.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_add_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_add_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_backspace_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_backspace_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_done_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_transport_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_transport_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_backspace_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_backspace_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_movie_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_movie_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_add_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_add_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_salary_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_salary_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_mobile.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_mobile.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_cell_list_view.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\layout\\cell_list_view.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit_text.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\bg_edit_text.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_attach_money_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_attach_money_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_money_off_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_money_off_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_money_off_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_money_off_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_money_off_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_money_off_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_appstore.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_appstore.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_attach_money_24.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_money_off_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_money_off_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_investment.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_investment.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_social.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_social.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_food.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_food.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_add_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_add_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_backspace_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_backspace_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_done_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_done_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_done_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_done_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_done_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_done_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_selector.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\background_selector.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_drinking_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_drinking_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_parttime_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_parttime_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_transfer_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_transfer_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_gift.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_gift.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_shopping_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_shopping_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_drinking.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_drinking.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_reimburse_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_reimburse_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_medical.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_medical.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bonus.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_bonus.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_backspace_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_backspace_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_add_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_add_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_backspace_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_backspace_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_backspace_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_backspace_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_backspace_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_backspace_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_computer.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_computer.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_attach_money_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_attach_money_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_money_off_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_money_off_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_add_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_add_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_redpocket_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_redpocket_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_mobile_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_mobile_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_attach_money_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_attach_money_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_transfer.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_transfer.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_travel.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_travel.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_medical_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_medical_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_backspace_24.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\baseline_backspace_24.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_done_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_money_off_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_money_off_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_add_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_add_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_appstore_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_appstore_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_personal_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_personal_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_cell_category.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\layout\\cell_category.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_ticket.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_ticket.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_done_24.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\baseline_done_24.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_done_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_attach_money_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_attach_money_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_attach_money_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_attach_money_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_social_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_social_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_attach_money_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_attach_money_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_add_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_add_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_done_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_done_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_add_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_add_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_done_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_backspace_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_backspace_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_money_off_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_money_off_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_attach_money_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_attach_money_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_money_off_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_money_off_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_money_off_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_money_off_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_money_off_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_money_off_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_shopping.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_shopping.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_done_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_done_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_entertain_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_entertain_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_backspace_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_backspace_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_add_24.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_redpocket.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_redpocket.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_computer_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_computer_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_add_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_add_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_book_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_book_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_backspace_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_backspace_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_attach_money_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_attach_money_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_money_off_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_money_off_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_money_off_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_money_off_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_parttime.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_parttime.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_done_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_done_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_done_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_done_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_attach_money_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_attach_money_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_transport.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_transport.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_attach_money_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_attach_money_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_add_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_add_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shortcuts_add.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\shortcuts_add.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_backspace_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_backspace_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_money_off_24.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\baseline_money_off_24.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_money_off_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_money_off_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_done_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_travel_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_travel_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_general_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_general_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_backspace_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_backspace_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_attach_money_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_attach_money_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\xml_shortcuts.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_backspace_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_backspace_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_attach_money_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_attach_money_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_backspace_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_backspace_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_attach_money_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_attach_money_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_house.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_house.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_add_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_add_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_add_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_add_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_money_off_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_money_off_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_attach_money_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_attach_money_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_attach_money_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_attach_money_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_money_off_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_money_off_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_investment_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_investment_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_done_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_book.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_book.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_gift_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_gift_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_done_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_done_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_presonal.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_presonal.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_attach_money_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-hdpi\\baseline_attach_money_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_money_off_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_money_off_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_done_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_done_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_backspace_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_backspace_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_add_black_24.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_add_black_24.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_backspace_black_48.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_backspace_black_48.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_attach_money_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_attach_money_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_done_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_done_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_add_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_add_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_money_off_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-mdpi\\baseline_money_off_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_ticket_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_ticket_white.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_money_off_black_36.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_money_off_black_36.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_add_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_add_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_general.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_general.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_money_off_black_18.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable-xhdpi\\baseline_money_off_black_18.png"
+    },
+    {
+        "merged": "E:\\projects\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bonus_white.png.flat",
+        "source": "E:\\projects\\demo\\app\\src\\main\\res\\drawable\\icon_bonus_white.png"
+    }
+]
